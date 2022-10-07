@@ -23,7 +23,13 @@ El apk se podrá encontrar en la ruta que se muestra una vez que se haya termina
 
 # Resultados
 
-[![osoUno.jpg](https://i.postimg.cc/VvVcJbmw/osoUno.jpg)](https://postimg.cc/8fMY3c7X)
+[![osoUno.jpg](https://i.postimg.cc/VvVcJbmw/osoUno.jpg)](https://postimg.cc/8fMY3c7X)----
+[![osoDos.jpg](https://i.postimg.cc/QMXnrdZJ/osoDos.jpg)](https://postimg.cc/fVrvcZLV)----
+[![osoTres.jpg](https://i.postimg.cc/mkFmSc7B/osoTres.jpg)](https://postimg.cc/SYkLSxZv)----
+[![oso-Cuatro.jpg](https://i.postimg.cc/FH23jPDd/oso-Cuatro.jpg)](https://postimg.cc/K1D1b5Xx)----
+[![osoCinco.jpg](https://i.postimg.cc/26YWt1pC/osoCinco.jpg)](https://postimg.cc/t1r7ZCCc)----
+[![osoSeis.jpg](https://i.postimg.cc/x8Tz0BT7/osoSeis.jpg)](https://postimg.cc/zb6B7thS)
+
 
 
 # Datos del estudiante
@@ -31,4 +37,7 @@ Universidad: Universidad Tecnológica de Xicotepec de Juárez. Área: Tecnologí
 
 Materia: Desarrollo Móvil Integral. Docente: M.T.I. Marco Antonio Ramírez Hernández Alumna: Brenda Paola Flores Carcaño Cuatrimestre: 10 Grupo: "B" Periodo: septiembre - diciembre 2022
 
+<hr>
 
+[![LOGO-TIC.png](https://i.postimg.cc/Dzg124Nz/LOGO-TIC.png)](https://postimg.cc/NyKKDFBh)-/-/-/ 
+[![LOGO-UTXJ-2019.png](https://i.postimg.cc/bwKqsmKC/LOGO-UTXJ-2019.png)](https://postimg.cc/rDCBHNyx)
