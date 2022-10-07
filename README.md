@@ -21,7 +21,8 @@ Las imagenes que se agregaron para la lista, se tendrán que agregar al archivo 
 Una vez que se desarrollo todo el proyecto, se creó el apk para instalarlo en los dispositivos móviles, con el comando de flutter buil apk.
 El apk se podrá encontrar en la ruta que se muestra una vez que se haya terminado de ejecutar el comando mencionado en el paso anterior.
 
-#Resultados
+# Resultados
+
 [![osoUno.jpg](https://i.postimg.cc/VvVcJbmw/osoUno.jpg)](https://postimg.cc/8fMY3c7X)
 
 
