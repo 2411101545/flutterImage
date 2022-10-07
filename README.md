@@ -9,7 +9,6 @@ Las herramientas que se usaron fueron las siguientes:
 
 Visual Studio Code en la versión 1.72: Es un editor de código fuente desarrollado por Microsoft para Windows, Linux, macOS y Web. Incluye soporte para la depuración, control integrado de Git, resaltado de sintaxis, finalización inteligente de código, fragmentos y refactorización de código.
 Flutter en la versión 3.3.2: Es un SDK de código fuente abierto de desarrollo de aplicaciones móviles creado por Google. Suele usarse para desarrollar interfaces de usuario para aplicaciones en Android, iOS y Web así como método primario para crear aplicaciones para Google Fuchsia.
-flutter-VSC.png
 
 # Metodología
 Se creó un proyecto de flutter en visual studio code.
@@ -22,7 +21,8 @@ Las imagenes que se agregaron para la lista, se tendrán que agregar al archivo 
 Una vez que se desarrollo todo el proyecto, se creó el apk para instalarlo en los dispositivos móviles, con el comando de flutter buil apk.
 El apk se podrá encontrar en la ruta que se muestra una vez que se haya terminado de ejecutar el comando mencionado en el paso anterior.
 
-#Resultados 
+#Resultados
+[![osoUno.jpg](https://i.postimg.cc/VvVcJbmw/osoUno.jpg)](https://postimg.cc/8fMY3c7X)
 
 
 # Datos del estudiante
@@ -30,4 +30,4 @@ Universidad: Universidad Tecnológica de Xicotepec de Juárez. Área: Tecnologí
 
 Materia: Desarrollo Móvil Integral. Docente: M.T.I. Marco Antonio Ramírez Hernández Alumna: Brenda Paola Flores Carcaño Cuatrimestre: 10 Grupo: "B" Periodo: septiembre - diciembre 2022
 
-LOGO-TIC.png--- LOGO-UTXJ-2019.png
+
